@@ -1,0 +1,3 @@
+Notebook/models/news_popularity_scored.csv
+Notebook/models/*.csv
+Notebook/models/*.pkl
